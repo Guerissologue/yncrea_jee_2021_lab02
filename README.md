@@ -60,10 +60,6 @@ Now you're a superstar of the servlets and you know how to "wire" a quote applic
 
 Deploy this app in Tomcat and enjoy.
 
-## JavaFX, in any case... (optional)
-... if you want to build an application which displays a window, like a native software. 
-
-You just have to implement the `QuoteGateway` class.
 
 ## Stop kidding, let's build an app like a pro!
 This part of the lab relies on Spring Framework. We will use this amazing tool to scaffold our app.
