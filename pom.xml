@@ -8,8 +8,6 @@
 		<module>lab02-provider</module>
 		<module>lab02-webapp</module>
 		<module>lab02-springapp</module>
-		<module>lab02-core</module>
-		<module>lab02-app</module>
     </modules>
     <packaging>pom</packaging>
 
