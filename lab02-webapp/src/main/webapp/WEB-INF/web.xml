@@ -7,6 +7,10 @@
         <servlet-name>QuoteServlet</servlet-name>
         <servlet-class>yncrea.lab02.web.QuoteServlet</servlet-class>
         <init-param>
+            <param-name>serviceClass</param-name>
+            <param-value>yncrea.lab02.core.service.impl.QuoteServiceImpl</param-value>
+        </init-param>
+        <init-param>
             <param-name>providerClass</param-name>
             <param-value>yncrea.lab02.provider.CNFProvider</param-value>
         </init-param>
